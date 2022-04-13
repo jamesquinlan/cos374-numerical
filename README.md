@@ -28,7 +28,17 @@ Students successfully completing this course will: % \footnote{Evaluation item l
 
 
 
-
+## Textbook
+ Burden, R. L., Faires, J. D., & Burden, A. M. (2015). _Numerical analysis_. Cengage learning.
+ 
+ ```
+ @book{burden2015numerical,
+  title={Numerical analysis},
+  author={Burden, Richard L and Faires, J Douglas and Burden, Annette M},
+  year={2015},
+  publisher={Cengage learning}
+}
+ ```
 
 ## Homework
 Homework will be assigned and collected regularly.  You are expected to hand in homework that is your own work. Homework will account for 30% of your grade.
