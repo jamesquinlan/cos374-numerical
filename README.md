@@ -31,9 +31,12 @@ By the end of this course, students will be able to:
 -->
 
 
-Lambers et al., (2018). [Explorations in Numerical Analysis](https://doi.org/10.1142/10446). World Scientific. <br>**Note**: Future edition in Julia, 
+Lambers et al., (2018). [Explorations in Numerical Analysis](https://doi.org/10.1142/10446). World Scientific. <br> 
 
-[![Lambers ENA MATLAB](lambers.jpg)]
+![Lambers ENA MATLAB](lambers.jpg)
+
+
+**Note**: Future edition in Julia
 
 
  
