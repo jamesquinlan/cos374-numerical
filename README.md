@@ -45,13 +45,17 @@ I also recommend downloading [Octave](https://octave.org). If you do not wish to
   
 A collection of mathematical software, papers, and databases maintained by Oak Ridge National Laboratory can be downloaded from [Netlib Repository](https://netlib.org), in particular, [LAPACK](https://www.netlib.org/lapack/), [LINPACK](https://netlib.org/linpack/), and [BLAS (Basic Linear Algebra Subprograms)](https://netlib.org/blas/) packages/libraries.
 
+<!-- 
 ### Meetings
 
 *   Lectures: Tue/Thur 9:30am - 10:45am ([Payson Smith 204](https://usm.maine.edu/about-our-university/wp-content/uploads/sites/581/2022/09/portland-campus-map.pdf))
 
+
 ### Communication
 
 Please communicate through [Brightspace](https://courses.maine.edu/d2l/home/294508).
+-->
+
 
 ### Grading
 
@@ -81,7 +85,7 @@ end
 
 #### COS 574 (Graduate Students)
 
-Graduate students taking the class for COS 574 credit are required to complete a project. The project will explore a numerical (linear algebra) topic in more depth. Projects should have sufficient complexity to merit graduate-level work. The project requires a computational component demonstrating proficiency in programming languages following coding best practices. The write-up should provide background concepts, motivating context, documentation of data sources, code, results, analysis, and conclusions. The report needs to be written in LATEX. Images contained in figures should be at least 300-600 dpi. The final project must be available on a GitHub repository, including all source code, test matrices, and LATEX. [List of project ideas.](cos574.pdf)
+Graduate students taking the class for COS 574 credit are required to complete a project. The project will explore a numerical (linear algebra) topic in more depth. Projects should have sufficient complexity to merit graduate-level work. The project requires a computational component demonstrating proficiency in programming languages following coding best practices. The write-up should provide background concepts, motivating context, documentation of data sources, code, results, analysis, and conclusions. The report needs to be written in LATEX. Images contained in figures should be at least 300-600 dpi. The final project must be available on a GitHub repository, including all source code, test matrices, and LATEX. [List of project ideas.](https://cs.usm.maine.edu/~james.quinlan/cos574.pdf)
 
 ### Late policy
 
