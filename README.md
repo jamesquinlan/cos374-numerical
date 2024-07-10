@@ -85,7 +85,7 @@ end
 
 #### COS 574 (Graduate Students)
 
-Graduate students taking the class for COS 574 credit are required to complete a project. The project will explore a numerical (linear algebra) topic in more depth. Projects should have sufficient complexity to merit graduate-level work. The project requires a computational component demonstrating proficiency in programming languages following coding best practices. The write-up should provide background concepts, motivating context, documentation of data sources, code, results, analysis, and conclusions. The report needs to be written in LATEX. Images contained in figures should be at least 300-600 dpi. The final project must be available on a GitHub repository, including all source code, test matrices, and LATEX. [List of project ideas.](https://cs.usm.maine.edu/~james.quinlan/cos574.pdf)
+Graduate students taking the class for COS 574 credit are required to complete a project. The project will explore a numerical (linear algebra) topic in more depth. Projects should have sufficient complexity to merit graduate-level work. The project requires a computational component demonstrating proficiency in programming languages following coding best practices. The write-up should provide background concepts, motivating context, documentation of data sources, code, results, analysis, and conclusions. The report needs to be written in LATEX. Images contained in figures should be at least 300-600 dpi. The final project must be available on a GitHub repository, including all source code, test matrices, and LATEX. [List of project ideas.](https://cs.usm.maine.edu/~james.quinlan/cos374/cos574.pdf)
 
 ### Late policy
 
