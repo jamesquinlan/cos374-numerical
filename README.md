@@ -3,7 +3,7 @@ University of Southern Maine<br>
 Department of Computer Science
 
 
-### Course description
+## Course description
 
 A study of the theory and application of computational algorithms for interpolation, equation solving, matrix methods, integration, and error analysis. Prerequisites: grades of C or better in COS 160, MAT 252, and MAT 295, or permission of instructor. Offered once every two years. Cr 3. COS 374 is a required elective for the Computer Science major (see all [requirements](https://catalog.usm.maine.edu/preview_program.php?catoid=13&poid=2601) for Computer Science).  
   
@@ -13,7 +13,7 @@ Numerical analysis studies the methods used to solve problems involving continuo
 
 Grade of C or higher in COS 160, MAT 252, and MAT 295, or permission of instructor.
 
-### Learning Outcomes
+## Learning Outcomes
 
 By the end of this course, students will be able to:
 
@@ -24,7 +24,7 @@ By the end of this course, students will be able to:
 *   Solve numerical linear algebra problems
 *   Interpret machine output and provide a good understanding of the problems of error analysis and convergence of algorithms
 
-### Textbook
+## Textbook
 <!-- 
 |     |     |
 | --- | --- |
@@ -33,7 +33,7 @@ By the end of this course, students will be able to:
 
 - - -
 
-### Software
+## Software
 
 We will use [The Julia Programming Language](https://julialang.org) (Julia for short). Julia can be installed at the terminal (Linux/Mac) with the command:
 
