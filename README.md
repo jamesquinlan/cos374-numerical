@@ -28,7 +28,7 @@ By the end of this course, students will be able to:
 
 |     |     |
 | --- | --- |
-| ![Lambers ENA MATLAB](https://cs.usm.maine.edu/~james.quinlan/cos374/lambers.jpg) | Lambers et al., (2018). [Explorations in Numerical Analysis](https://doi.org/10.1142/10446). World Scientific. ISBN: 978-981-320-997-8. |
+| ![Lambers ENA MATLAB](lambers.jpg) | Lambers et al., (2018). [Explorations in Numerical Analysis](https://doi.org/10.1142/10446). World Scientific. ISBN: 978-981-320-997-8. |
 
 - - -
 
