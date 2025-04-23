@@ -11,7 +11,7 @@ Numerical analysis studies the methods used to solve problems involving continuo
 
 ### Prerequisites
 
-Grade of C or higher in COS 160, MAT 252, and MAT 295, or permission of instructor.
+Grade of C or higher in COS 160 and MAT 295, or permission of instructor.
 
 ## Learning Outcomes
 
