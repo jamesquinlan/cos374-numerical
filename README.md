@@ -31,7 +31,7 @@ By the end of this course, students will be able to:
 -->
 
 
-Lambers et al., (2025, forthcoming). Explorations in Numerical Analysis and Machine Learning in Julia.  <!-- Previous book in MATLAB (https://doi.org/10.1142/10446) ![Lambers ENA MATLAB](lambers.jpg) -->. World Scientific. <br> 
+Lambers et al., (2025, forthcoming). Explorations in Numerical Analysis and Machine Learning in Julia.  <!-- Previous book in MATLAB (https://doi.org/10.1142/10446) ![Lambers ENA MATLAB](lambers.jpg) --> World Scientific. <br> 
  
   <!-- ISBN: 978-981-320-997-8.  -->
 
